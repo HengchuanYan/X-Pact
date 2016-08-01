@@ -1,1 +1,0 @@
-alter table idsc_setpointdata add ACT_TEMPNO number(3);
